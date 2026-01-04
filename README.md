@@ -113,13 +113,6 @@ Network Reconnaissance Analysis
 
 
 
-Created By:
-
-Author Name: Selfridge Oya Eloi
-Author Contact: https:www.linkedin.com/in/christ-selfridge-oya-eloi-72342a113   <img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/2b9ea15c-1bc6-4747-83a8-991b4f1b5e3a" />
-
-
-
 
 
 
