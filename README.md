@@ -55,13 +55,16 @@ This scenario simulates a small corporate environment where a network technician
 - Updated default administrative credentials on the wireless controller to reduce unauthorized access risk
 - Implemented MAC address allow-listing to restrict network access to authorized devices only
 
-<img width="1155" height="825" alt="image" src="https://github.com/user-attachments/assets/5b6a9848-d1da-4ccf-950b-28daef262856" />
+<img width="1247" height="663" alt="image" src="https://github.com/user-attachments/assets/6640b833-7b4c-4e59-badd-a8e80ec21134" />
 
 
-<img width="1247" height="663" alt="image" src="https://github.com/user-attachments/assets/ad3c1f9d-1118-41fb-b113-2e536b2f383b" />
+<img width="1247" height="663" alt="image" src="https://github.com/user-attachments/assets/d78158df-0c2a-43e4-916e-67b0006d6c70" />
 
 
-<img width="1247" height="663" alt="image" src="https://github.com/user-attachments/assets/d127b522-f37a-4a2e-9534-69984491560b" />
+<img width="1247" height="663" alt="image" src="https://github.com/user-attachments/assets/30ec6722-14b0-4e8c-97b8-e0d74a82995b" />
+
+
+
 
 
 
@@ -69,7 +72,6 @@ This scenario simulates a small corporate environment where a network technician
 - Enabled firewall protections for public network profiles to reduce exposure on untrusted networks
 - Configured firewall rules to allow required services and applications while maintaining a restrictive default posture
 
-<img width="1247" height="663" alt="image" src="https://github.com/user-attachments/assets/ed1c618c-7bba-4e58-8720-1841b1f17e4f" />
 
 
 <img width="1089" height="777" alt="image" src="https://github.com/user-attachments/assets/5f40c328-1771-4892-8a95-9d7d1940b6e3" />
