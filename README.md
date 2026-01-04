@@ -134,7 +134,7 @@ Validated By:
 •	Reviewer Name: Selfridge Oya Eloi
 •	Reviewer Contact:
 •	Validation Date: January 9th, 2026
-<img width="523" height="187" alt="image" src="https://github.com/user-attachments/assets/27e4fa30-6332-4c24-863e-06cdb8c535bb" />
+
 
 
 
