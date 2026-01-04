@@ -40,7 +40,7 @@ Windows Defender Firewall
 
 Wireshark
 
-Nmap / Zenmap (used in a controlled lab environment)
+Nmap / Zenmap 
 
 **Ethical Notice**
 
