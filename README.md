@@ -100,9 +100,11 @@ Network Reconnaissance Analysis
   
   <img width="661" height="537" alt="image" src="https://github.com/user-attachments/assets/fd4e1d0d-ccb2-46fb-8417-6c8322e438fb" />
 
+
 - Captured and analyzed network traffic using Wireshark to observe scan behavior
 
 <img width="661" height="537" alt="image" src="https://github.com/user-attachments/assets/b3c4b215-c113-41b5-b6ca-d7e8988981b9" />
+
 
 
 - Identified multiple source IP addresses associated with decoy-based scanning activity
@@ -120,7 +122,9 @@ Network Reconnaissance Analysis
 Created By:
 
 •	Author Name: Selfridge Oya Eloi
-•	Author Contact: https:www.linkedin.com/in/christ-selfridge-oya-eloi-72342a113   <img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/2b9ea15c-1bc6-4747-83a8-991b4f1b5e3a" />
+•	Author Contact: https:www.linkedin.com/in/christ-selfridge-oya-eloi-72342a113  
+
+<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/2b9ea15c-1bc6-4747-83a8-991b4f1b5e3a" />
 
 •	Date: Jan 4th, 202
 
